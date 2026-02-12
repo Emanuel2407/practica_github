@@ -11,7 +11,7 @@ Breve descripción de qué hace el proyecto y para qué sirve. Mantén esto clar
 ## 🛠️ Tecnologías
 
 - Lenguaje / Framework principal
-- Otras librerías o herramientas importantes
+- Otras librerías o  gbhygh  herramientas importantes
 
 ## 📦 Instalación
 
